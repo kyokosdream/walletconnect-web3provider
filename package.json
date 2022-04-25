@@ -67,7 +67,7 @@
     "@walletconnect/http-connection": "^1.7.7",
     "@walletconnect/qrcode-modal": "^1.7.7",
     "@walletconnect/types": "^1.7.7",
-    "@walletconnect/utils": "^1.7.7",
+    "@walletconnect/utils": "https://github.com/kyokosdream/walletconnect-utils.git",
     "web3-provider-engine": "16.0.1"
   },
   "gitHead": "165f7993c2acc907c653c02847fb02721052c6e7"
